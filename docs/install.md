@@ -31,4 +31,3 @@ Install the necessary packages and pycocotools.
 pip install -r requirements.txt 
 
 ```
-
