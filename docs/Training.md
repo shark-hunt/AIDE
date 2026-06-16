@@ -23,4 +23,3 @@ For example, evaluating the progan_train model, run the following command:
 ./scripts/eval.sh --data_path dataset/progan/train --eval_data_path dataset/progan/eval --resume results/progan_train/progan_train.pth --eval True --output_dir results/progan_train
 ```
 
-
